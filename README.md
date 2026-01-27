@@ -31,6 +31,7 @@ Machine Learning Engineer with a passion for computer vision, robotics, and unde
 | [**segcam**](https://github.com/cverrier/segcam) | Real-time semantic segmentation on live camera feeds using YOLOv8-seg, with support for Metal (Apple Silicon), CUDA, and CPU backends. |
 | [**tinygrad-tutos**](https://github.com/cverrier/tinygrad-tutos) | Tutorials about tinygrad, an end-to-end deep learning stack. A deep dive into how modern ML frameworks work under the hood. |
 | [**mnist-cuda**](https://github.com/cverrier/mnist-cuda) | A simple CUDA-accelerated neural network for MNIST digit classification, built from scratch to understand GPU programming fundamentals. |
+| [**tinygpt**](https://github.com/cverrier/tinygpt) | A minimal implementation of GPT architecture using the tinygrad end-to-end deep learning framework. |
 
 ---
 
