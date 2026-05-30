@@ -35,11 +35,13 @@ Machine Learning Engineer with a passion for computer systems, and understanding
 | [**tinygrad-tutos**](https://github.com/cverrier/tinygrad-tutos) | Tutorials about tinygrad, an end-to-end deep learning stack. A deep dive into how modern ML frameworks work under the hood. |
 | [**mnist-cuda**](https://github.com/cverrier/mnist-cuda) | A simple CUDA-accelerated neural network for MNIST digit classification, built from scratch to understand GPU programming fundamentals. |
 | [**tinygpt**](https://github.com/cverrier/tinygpt) | A minimal implementation of GPT architecture using the tinygrad end-to-end deep learning framework. |
+| [**rustynet**](https://github.com/cverrier/rustynet) | A neural network built from scratch in Rust, for learning — not speed. |
 
 ---
 
 ### Tech Stack
 
+![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
