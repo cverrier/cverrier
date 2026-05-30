@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Clément
 
-Machine Learning Engineer with a passion for computer vision, robotics, and understanding how things work at a low level.
+Machine Learning Engineer with a passion computer systems, and understanding how things work at a low level.
 
 ---
 
