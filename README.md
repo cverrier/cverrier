@@ -6,6 +6,8 @@ Machine Learning Engineer with a passion for computer systems, and understanding
 
 ### About Me
 
+🎵 Currently working at [Sonos](https://www.sonos.com/) as a Machine Learning Engineer in the Sonos Voice Control department.
+
 🎓 Self-taught in computer science with a mathematics background. I learned everything from the ground up.
 
 🤖 Previously worked at [ASUS Robotics & AI Center](https://www.araic.asus.com/) in Taiwan as a Machine Learning Engineer.
@@ -18,8 +20,9 @@ Machine Learning Engineer with a passion for computer systems, and understanding
 
 ### Current Interests
 
-- 👁️ **Computer Vision** — My primary area of expertise and interest
-- 🦾 **Robotics** — Exploring real-world AI applications through [Hugging Face's LeRobot](https://github.com/huggingface/lerobot)
+- 🦀 **Rust** — Currently learning
+- 💬 **Automatic Speech Recognition** — Currently learning
+- 👁️ **Computer Vision** — Just for fun now
 - ⚡ **GPU Programming & Hardware** — Understanding the low-level mechanics behind deep learning frameworks
 
 ---
