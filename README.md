@@ -1,29 +1,25 @@
-## Hi there 👋 I'm Clément
-
 Machine Learning Engineer with a passion for computer systems, and understanding how things work at a low level.
 
 ---
 
 ### About Me
 
-🎵 Currently working at [Sonos](https://www.sonos.com/) as a Machine Learning Engineer in the Sonos Voice Control department.
+I'm currently working at [Sonos](https://www.sonos.com/) as a Machine Learning Engineer in the Sonos Voice Control department.
 
-🎓 Self-taught in computer science with a mathematics background. I learned everything from the ground up.
+I previously worked at [ASUS Robotics & AI Center](https://www.araic.asus.com/) in Taiwan as a Machine Learning Engineer.
 
-🤖 Previously worked at [ASUS Robotics & AI Center](https://www.araic.asus.com/) in Taiwan as a Machine Learning Engineer.
+I started my career as a Data Scientist at [HPS Worldwide](https://www.hps-worldwide.com/), designing and implementing machine learning models for credit card fraud detection.
 
-🌏 Fluent in Mandarin Chinese (self-taught).
-
-📊 Started my career as a Data Scientist at [HPS Worldwide](https://www.hps-worldwide.com/), designing and implementing machine learning models for credit card fraud detection.
+I'm fluent in French (native speaker), English, and Mandarin Chinese.
 
 ---
 
 ### Current Interests
 
-- 🦀 **Rust** — Currently learning
-- 💬 **Automatic Speech Recognition** — Currently learning
-- 👁️ **Computer Vision** — Just for fun now
-- ⚡ **GPU Programming & Hardware** — Understanding the low-level mechanics behind deep learning frameworks
+- [**Tract**](https://github.com/sonos/tract) — A neural network inference engine
+- **Automatic Speech Recognition** — Currently learning
+- **Computer Vision** — Just for fun now
+- **GPU Programming & Hardware** — Understanding the low-level mechanics behind deep learning frameworks
 
 ---
 
@@ -51,5 +47,5 @@ Machine Learning Engineer with a passion for computer systems, and understanding
 ---
 
 <p align="center">
-  <i>授人以魚不如授人以漁。— Better to teach someone to fish than to give him a fish. — Mieux vaut apprendre à pêcher que de donner un poisson.</i>
+  <i>授人以魚不如授人以漁。— Better to teach someone to fish than to give him a fish. — Mieux vaut apprendre à quelqu'un à pêcher que de lui donner un poisson.</i>
 </p>
