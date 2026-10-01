@@ -16,10 +16,11 @@ I'm fluent in French (native speaker), English, and Mandarin Chinese.
 
 ### Current Interests
 
-- [**Tract**](https://github.com/sonos/tract) — A neural network inference engine
-- **Automatic Speech Recognition** — Currently learning
-- **Computer Vision** — Just for fun now
-- **GPU Programming & Hardware** — Understanding the low-level mechanics behind deep learning frameworks
+- [**Tract**](https://github.com/sonos/tract) — A neural network inference engine. I have some contributions, see *e.g.* https://github.com/sonos/tract/pull/2487, https://github.com/sonos/tract/pull/2492 or https://github.com/sonos/tract/pull/2515
+- **Performance Engineering, CPU Optimization**
+- **GPU Programming**
+- **Automatic Speech Recognition**
+- **Computer Vision**
 
 ---
 
